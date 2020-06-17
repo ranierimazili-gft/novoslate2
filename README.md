@@ -1,1 +1,0 @@
-# novoslate2
